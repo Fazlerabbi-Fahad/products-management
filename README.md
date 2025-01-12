@@ -1,1 +1,3 @@
-Live link: https://university-management-nosql.vercel.app/api/v1/student
+<p align="center">
+  <img src="./products.drawio.png" alt="Example Image" width="300">
+</p>
